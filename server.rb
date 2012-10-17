@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  'master'
+  'branch_with_complex_name-1'
 end
